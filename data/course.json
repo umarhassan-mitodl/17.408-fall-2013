@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ]
+  ],
+  "legacy_uid": "d7f08d70-7180-c0c2-e142-995be7c38905",
+  "instructors": {
+    "content": [
+      "fcc95998-e4af-7081-5b80-258d7ea4878e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2d436e8d-61a7-1563-57d0-0a259520ed8c",
+    "website": "17-408-chinese-foreign-policy-fall-2013"
+  },
+  "course_title": "Chinese Foreign Policy",
+  "course_description": "This course explores the leading theoretical and methodological approaches to studying China's interaction with the international system since 1949. Readings include books and articles that integrate the study of China's foreign policy with the field of international relations.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.408",
+  "course_image_thumbnail": {
+    "content": "dd546454-4ec8-634f-91ee-8517487d4896",
+    "website": "17-408-chinese-foreign-policy-fall-2013"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples",
+    "Instructor Insights"
+  ],
+  "site_uid": "38defe54-89f3-476c-a6c2-c4a9b7a8e9f0",
+  "site_short_id": "17.408-fall-2013",
+  "site_url_path": "courses/17-408-chinese-foreign-policy-fall-2013",
+  "title": "Course Metadata"
+}

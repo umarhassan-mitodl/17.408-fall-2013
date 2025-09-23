@@ -1,0 +1,11 @@
+---
+content_type: external-resource
+external_url: http://www.mitpressjournals.org/doi/pdf/10.1162/isec.2009.34.2.7
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
+title: 'Bad Debts: Assessing China''s Financial Influence in Great Power Politics."
+  (PDF)'
+uid: 5c3e5846-e333-4e51-bca3-4bb2d1730823
+wayback_url: ''
+---
