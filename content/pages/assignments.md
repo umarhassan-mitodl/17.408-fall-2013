@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the research paper assigned for
   the course along with examples of student work.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -17,11 +15,11 @@ The research paper will count for 50% of your grade.
 
 _Plagiarism_
 
-Plagiarism will not be tolerated. Plagiarism is "a piece of writing that has been copied from someone else and is presented as being your own work." This includes ideas as well as specific phrases, sentences or paragraphs. **Do not misrepresent your own work**. See [Avoiding Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/) from MIT's Writing & Communication Center and [MIT's rules](http://web.mit.edu/policies/10/index.html) regarding academic honesty.
+Plagiarism will not be tolerated. Plagiarism is "a piece of writing that has been copied from someone else and is presented as being your own work." This includes ideas as well as specific phrases, sentences or paragraphs. **Do not misrepresent your own work**. See {{% resource_link "ff1f4ba3-43d4-4c14-a8af-f046973f70fc" "Avoiding Plagiarism" %}} from MIT's Writing & Communication Center and {{% resource_link "6e5f74e7-1b73-415f-8a37-3e7c81ac0ae0" "MIT's rules" %}} regarding academic honesty.
 
 _Writing_
 
-The [Writing & Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) offers you free professional advice from published writers about oral presentations and about all types of academic, creative, and professional writing.
+The {{% resource_link "b0f671ee-6cf9-41d7-b758-d8bed89437c5" "Writing & Communication Center" %}} offers you free professional advice from published writers about oral presentations and about all types of academic, creative, and professional writing.
 
 Student Examples
 ----------------

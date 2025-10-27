@@ -4,8 +4,6 @@ description: Example of student work for a research paper on Chinese foreign pol
 file: /courses/17-408-chinese-foreign-policy-fall-2013/cad26fd181fff49c8b6572f79ccaf215_MIT17_408F13_AnlyisTrdtnl.pdf
 file_size: 116554
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
